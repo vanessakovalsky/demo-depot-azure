@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/sparks-training/386fcfe6-afbd-4c24-a9d0-65ea3dd4524d/b34b1073-1c50-4ac5-90f0-e5e7db899a81/_apis/work/boardbadge/8f9d8fb2-2e39-4a79-a77b-de36d2d630b1)](https://dev.azure.com/sparks-training/386fcfe6-afbd-4c24-a9d0-65ea3dd4524d/_boards/board/t/b34b1073-1c50-4ac5-90f0-e5e7db899a81/Microsoft.RequirementCategory)
 # demo-depot-azure
